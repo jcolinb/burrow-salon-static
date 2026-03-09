@@ -57,7 +57,7 @@ nav {
     background-color: #e7e5d8;
     align-items: center;
     justify-items: start;
-    z-index: 3;
+    z-index: 10;
     position: relative;
 }
 
@@ -479,7 +479,7 @@ h2 {
     }
 
     footer {
-        padding: 32px;
+        padding: 24px;
     }
 }
 

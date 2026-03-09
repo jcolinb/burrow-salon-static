@@ -504,7 +504,7 @@ h2 {
     left: 0;
     height: 100%;
     background: linear-gradient(to left,transparent 10%, var(--color-background));
-    width: 36px;
+    width: 48px;
     display: grid;
     place-content: center;
     color: #fefdde;
@@ -517,7 +517,7 @@ h2 {
     right: 0;
     height: 100%;
     background: linear-gradient(to right,transparent 10%, var(--color-background));
-    width: 36px;
+    width: 48px;
     display: grid;
     place-content: center;
     color: #fefdde;

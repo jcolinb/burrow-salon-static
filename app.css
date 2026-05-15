@@ -211,6 +211,7 @@ h2 {
 .vendors {
     display: grid;
     justify-content: center;
+    place-self: center;
     gap: 64px;
     list-style: none;
     margin: 0;
